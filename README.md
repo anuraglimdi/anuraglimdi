@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Anurag Limdi, currently a PhD Candidate in Michael Baym's lab in the Department of Biomedical Informatics at the Harvard Medical School. 
+
+
+
+
+
 <!--
 **anuraglimdi/anuraglimdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
