@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-I am Anurag Limdi, currently a PhD Candidate in Michael Baym's lab in the Department of Biomedical Informatics at the Harvard Medical School. 
+I am Anurag Limdi, currently a PhD Candidate in Michael Baym's lab in the Department of Biomedical Informatics at the Harvard Medical School. I am very broadly interested in exploring how biological systems function and evolve, through a combination of high-throughput experiments, theory and computational approaches. In my research as an undergrad and PhD student, I have studied the ecology and evolution of microbes and microbial communities, and tested ideas from theoretical ecology and population genetics in experiments!
 
-### Research Interests
+You can find my papers and preprints [here!](https://scholar.google.com/citations?user=wgm55b0AAAAJ&hl=en)
 
-I am very broadly interested in exploring how biological systems function and evolve, through a combination of high-throughput experiments, theory and computational approaches. In my research as an undergrad and PhD student, I have focused on studying the ecology and evolution of microbes. 
-
-In my thesis research in Michael Baym's lab at Harvard Medical School, I study how fitness landscapes change over time in the Lenski Long-term evolution experiment. I engineered mutations disrupting every gene in the E. coli genome in the ancestors and strains after 50,000 generations of evolution (nearly 1.5 million years, in human equivalents!). I found that the statistical properties of fitness landscapes don't shift systematically, but there are consistent changes in which evolutionary paths become accessible or inaccessible over evolution. You can read more about this project in my preprint [Parallel changes in gene essentiality over 50,000 generations of evolution](https://www.biorxiv.org/content/10.1101/2022.05.17.492023)
-
-In my previous research with Jeff Gore and others at MIT Physics, we explored how the network topology of metapopulations (a collection of populations) influences cooperator-defector dynamics, and the resilience to perturbations at short and long time scales. We found, both in experiments and simulations, that highly asymmetric networks (variance of the degree distribution is very large) promote evolution of cooperation. We also found that asymmetric networks are sensitive to continuous stress, but resilient to transient perturbations. Read our paper [Asymmetric migration decreases stability but increases resilience in a heterogeneous metapopulation](https://www.nature.com/articles/s41467-018-05424-w)
 <!--
 **anuraglimdi/anuraglimdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
