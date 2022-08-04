@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I am Anurag Limdi, currently a PhD Candidate in Michael Baym's lab in the Department of Biomedical Informatics at the Harvard Medical School. I am very broadly interested in exploring how biological systems function and evolve, through a combination of high-throughput experiments, theory and computational approaches. In my research as an undergrad and PhD student, I have studied the ecology and evolution of microbes and microbial communities, and tested ideas from theoretical ecology and population genetics in experiments!
+I am Anurag Limdi, currently a PhD Candidate in Michael Baym's lab in the Department of Biomedical Informatics at the Harvard Medical School. I am very broadly interested in exploring how biological systems function and evolve, through a combination of high-throughput experiments, theory and computational approaches. I am also interested in applying machine learning to large biological datasets to glean insights into antibiotic resistance, genotype to phenotype prediction and more.
 
-You can find my papers and preprints [here!](https://scholar.google.com/citations?user=wgm55b0AAAAJ&hl=en)
+In my thesis research, I am studying how fitness landscapes change over thousands of generations of bacterial evolution by generating transposon insertion libraries (with >100,000 mutations) in ancestral and evolved states, and analyzing statistical patterns of changes in fitness effects and gene essentiality (read our preprint [here](https://www.biorxiv.org/content/10.1101/2022.05.17.492023v1)). 
+
+You can find all my papers and preprints [here!](https://scholar.google.com/citations?user=wgm55b0AAAAJ&hl=en)
+
 
 <!--
 **anuraglimdi/anuraglimdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
