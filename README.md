@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Anurag Limdi, a Data Scientist at Apriori Bio, where I merge ML modeling and analyses of deep mutational scanning experiments of proteins to understanding genotype to phenotype mapping and inform vaccine design for infectious diseases. 
+I am Anurag Limdi, a Data Scientist at Apriori Bio, where I merge machine learning and analyses of deep mutational scanning experiments of proteins to understanding genotype to phenotype mapping and inform vaccine design for infectious diseases. 
 
 Previously I was a PhD Candidate in Michael Baym's lab in the Department of Biomedical Informatics at the Harvard Medical School where I explored how biological systems function and evolve, through a combination of high-throughput experiments, theory and computational approaches. 
 
