@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-I am Anurag Limdi, a Data Scientist at Apriori Bio, where I merge machine learning and analyses of deep mutational scanning experiments of proteins to understanding genotype to phenotype mapping and inform vaccine design for infectious diseases. 
+I am Anurag Limdi, a Data Scientist at Apriori Bio, where I integrate machine learning and analyses of deep mutational scanning experiments of proteins to understanding genotype to phenotype mapping and inform vaccine design for infectious diseases. 
 
-Previously I was a PhD Candidate in Michael Baym's lab in the Department of Biomedical Informatics at the Harvard Medical School where I explored how biological systems function and evolve, through a combination of high-throughput experiments, theory and computational approaches. 
+Broadly, my research interests span molecular evolution, protein design, and applying machine learning to problems in biology. Trained as a systems biologist at the intersection of computational and lab science, I believe in deeply understanding quirks and biases in biological datasets, particularly large genomics datasets, in order to build generalizable models.
 
-In my thesis research, I investigated how fitness landscapes change over thousands of generations of bacterial evolution by generating transposon insertion libraries (with >100,000 mutations) in ancestral and evolved states, and analyzing statistical patterns of changes in fitness effects and gene essentiality (read our preprint [here](https://www.biorxiv.org/content/10.1101/2022.05.17.492023v1)). In the process, I developed an approach for detecting and correcting PCR amplification bias in transposon sequencing by addition of unique molecular identifiers (github repo and paper forthcoming), and wrote a simulations/review paper on tradeoffs in the design of high-throughput sequencing based fitness assays (read our preprint [here](https://www.biorxiv.org/content/10.1101/2022.08.19.504558v1)). 
+Previously, I was a PhD Candidate at Harvard where I explored how bacterial genomes function and evolve, through a combination of high-throughput experiments, theory and computational approaches. My projects include:
 
-You can find all my papers and preprints [here!](https://scholar.google.com/citations?user=wgm55b0AAAAJ&hl=en)
+- Mapping fitness landscapes over thousands of generations of the long-term evolution experiment ([Paper](https://www.science.org/doi/abs/10.1126/science.add1417), [Code](baymlab/2022_Limdi-TnSeq-LTEE)). Our paper got [featured](https://www.nature.com/articles/s41576-024-00707-z) in Nature Reviews Genetics and I chatted with [ScienceAdviser](https://www.science.org/content/article/scienceadviser-scent-female-mice-shortens-lives-males) about what we found and implications for the field of evolutionary biology.
+- Fitness assay design using theory, Monte-Carlo simulations to explore tradeoffs in design parameters ([Paper](https://link.springer.com/article/10.1007/s00239-023-10110-7), [Code](https://github.com/baymlab/2022_Limdi_limits-pooled-fitness-assays)).
+- Methods development for correcting for PCR-related artifacts in transposon sequencing experiments ([Code](https://github.com/anuraglimdi/umi_tnseq))
+- Modeling DNA-binding biases of the mariner transposon ([Code](https://github.com/anuraglimdi/transposon_binding_motif))
 
 
 <!--
