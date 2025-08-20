@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Anurag Limdi, a Data Scientist at Apriori Bio, where I integrate machine learning and analyses of deep mutational scanning experiments of proteins to understanding genotype to phenotype mapping and inform vaccine design for infectious diseases. 
+I am Anurag Limdi, a Machine Learning Scientist at European Bioinformatics Institute (EMBL-EBI) , where I build generative modeling to large-scale genetic and genomic datasets for drug discovery in rare diseases. 
 
 **Research Interests**
 
-These days, I think about problems that span molecular evolution, protein design, and applying machine learning to problems in biology. Trained as a systems biologist at the intersection of computational and lab science, I believe in deeply understanding the quirks and biases in biological datasets, particularly large genomics datasets, in order to build generalizable models.
+These days, I think about problems that span human genomics, protein design, molecular evolution, and applying machine learning to problems in biology. Trained as a systems biologist at the intersection of computational and lab science, I believe in deeply understanding the quirks and biases in biological datasets, particularly large genomics datasets, in order to build generalizable models.
 
 **My PhD Research**
 
